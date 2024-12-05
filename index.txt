@@ -1,0 +1,236 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Devansh Saxena
+Devansh Saxena
+Software Developer
+
+Show Contacts
+
+Email
+devanshsaxena1019@gmail.com
+
+Phone
++919305506538
+
+Birthday
+October 19, 2002
+
+Location
+Noida, Uttar Pradesh, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Hi, I’m Devansh Saxena, a creative and detail-oriented UI/UX Developer dedicated to designing intuitive and user-friendly digital experiences. With a solid foundation in mobile and web application development, I combine technical expertise with a deep understanding of user-centric design principles to create impactful solutions.
+
+Throughout my career, I’ve worked on diverse projects, such as crafting seamless interfaces for applications like MyMedicos and developing systems from scratch to deployment. My passion lies in translating complex ideas into elegant designs that not only look great but function effortlessly. Tools like Figma, SwiftUI, and React empower me to bring concepts to life, blending creativity with technical precision.
+
+I thrive on collaboration and problem-solving, ensuring each project achieves its goal of enhancing user engagement and satisfaction. With expertise in designing for both mobile and web platforms, I strive to create experiences that leave a lasting impression.
+
+Explore my portfolio to see how I bring ideas to life, one interface at a time!
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Saas
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Galgotias University
+2021 — 2025
+Currently pursuing my 4th year at Galgotias University, where I've honed my skills in innovation and technology. This journey has shaped my expertise and passion for impactful solutions.
+
+Tagore Public School
+2006 — 2020
+An alumnus of Tagore Public School, where I built a strong academic foundation and leadership abilities. The values learned here continue to inspire my growth and achievements.
+
+Experience
+
+Lead Application Developer
+2023— Present
+Spearheaded the end-to-end development of applications like MyMedicos, leading a team to deliver innovative solutions in record time, achieving 400+ downloads within 15 days of launch
+
+Web Designer & Developer
+2013 — 2015
+Designed and developed dynamic web applications with a focus on performance, scalability, and user-centric design, enhancing client satisfaction and business growth.
+
+My skills
+
+Web design
+80%
+Graphic design
+70%
+Branding
+90%
+WordPress
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
